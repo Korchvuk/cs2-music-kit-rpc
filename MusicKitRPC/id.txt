@@ -1,0 +1,84 @@
+0: Default Kit
+3: Kelly Bailey - Valve
+4: Daniel Sadowski - Total Domination
+5: Noisia - Sharpened
+6: Robert Allaire - Insurgency
+7: Sean Murray - A*D*8
+8: Feed Me - High Noon
+9: DRE - Death's Approach
+10: Austin Wintory - Desert Fire
+11: Sasha - LNOE
+12: Skog - Metal
+13: Midnight Riders - All I Want for Christmas
+14: Beartooth - Disgusting
+15: Daniel Sadowski - Crimson Assault
+16: Mord Fustang - Diamonds
+17: Michael Bross - Invasion!
+18: Ian Hultquist - Lion's Mouth
+19: New World Orchestra - Uber Blasto Phone
+20: Sasha - Prism
+21: Skog - II-Headshot
+22: Ki:Theory - MOLOTV
+23: Lennie Moore - Java Havana Funkwhale
+24: Proxy - Cl0ze
+25: Troels Folmann - For No Mankind
+26: Austin Wintory - Bach RAM
+27: Damjan Mravunac - The Talos Principle
+28: Daniel Sadowski - The 8-Bit Kit
+29: Darren Korb - Hades
+30: Amon Tobin - All for Dust
+31: Chris Meer - Hazardous Environments
+32: Mateo Messina - For Eternal
+33: Scarlxrd - Chain$aw
+34: Life0ne - Under Sea
+35: Half-Life: Alyx
+36: Austin Wintory - Mocha Petal
+37: Denzel Curry - Ultimate
+38: The Verkkars - EZ4ENCE
+39: Team Spirit - Work Hard, Play Hard
+40: Neck Deep - Life's Not Out To Get You
+41: Scarlxrd - King, Scar
+42: bbno$ - u mad!
+43: Darren Korb - Hades
+44: The Living Tombstone - My Everything
+45: Amon Tobin - All for Dust
+46: 3DNELU - Mocha Petal
+47: Knock2 - dashstar*
+48: Sullivan King - Lock It Up
+49: Amon Tobin - All for Dust
+50: Human Fall Flat
+51: Gojira - Mea Culpa
+52: Dreams & Nightmares
+53: Denzel Curry - Walkin
+54: Ultimate Music Kit
+55: Hades II Music Kit
+56: 3DNELU - On The Loose
+57: The Verkkars & n0thing - Flashbang Dance
+58: Dr. Disrespect - Gillette
+59: Hundredth - FREE
+60: Hyper Potions - M0u53
+61: Amon Tobin - All for Dust
+62: Darren Korb - Bastion
+63: Kelly Bailey - Valve (Legacy)
+64: Austin Wintory - Desert Fire (StatTrak)
+65: The Verkkars - Kolmesta
+66: Scurros - Aggressive Action
+67: Skelly - Dashstar (V2)
+68: Mord Fustang - Diamonds (StatTrak)
+69: Sean Murray - A*D*8 (StatTrak)
+70: Damjan Mravunac - Serious Sam
+71: Daniel Sadowski - Crimson Assault (StatTrak)
+72: Noisia - Sharpened (StatTrak)
+73: Robert Allaire - Insurgency (StatTrak)
+74: Beartooth - Aggressive
+75: Hundredth - RARE
+76: Neck Deep - The Peace and The Panic
+77: Roam - Backbone
+78: Twin Atlantic - GLA
+79: Frank Klepacki - I Am The One
+80: Inon Zur - Fallout
+81: Lena Raine - Celeste
+82: Various Artists - Hotline Miami
+83: Tree Adams - Halo Master Chief
+84: Austin Wintory - Antlion
+85: Michiel van den Bos - Unreal Tournament
