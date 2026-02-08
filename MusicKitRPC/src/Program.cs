@@ -63,7 +63,7 @@ namespace CS2MusicKitRPC
             if (string.IsNullOrEmpty(config.DiscordClientId) || config.DiscordClientId == "YOUR_APP_ID_HERE")
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("ОШИБКА: Укажите DiscordClientId в файле config.json!");
+                Console.WriteLine("Укажите DiscordClientId в файле config.json!");
                 Console.ResetColor();
                 Console.ReadLine();
                 return;
@@ -75,7 +75,7 @@ namespace CS2MusicKitRPC
             client.OnReady += (sender, e) =>
             {
                 Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine($"RPC готов! Пользователь: {e.User.Username}");
+                Console.WriteLine($"RPC Пользователь: {e.User.Username}");
                 Console.ResetColor();
 
             
@@ -91,7 +91,7 @@ namespace CS2MusicKitRPC
             try
             {
                 listener.Start();
-                Console.WriteLine("Слушаю CS2 на порту 3000...");
+                Console.WriteLine("CS2 порт 3000...");
             }
             catch (Exception ex)
             {
